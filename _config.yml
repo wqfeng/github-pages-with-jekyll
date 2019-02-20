@@ -1,14 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: IPND Syllabus
+author: Wang Qun Feng
+email: qunfengw@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  An Introduction to Programming Syllabus for those who want to learn how to code.
+  You will learn HTML, CSS, JavaScript and Python in this course. What's most exciting
+  is you can get some feedback about your projects from an expert.
+  
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: qunfengwang
+github_username:  wqfeng
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
